@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TTanishq1/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/TTanishq1/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
