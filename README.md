@@ -28,10 +28,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TTanishq1/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/TTanishq1/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TTanishq1/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/TTanishq1/leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
